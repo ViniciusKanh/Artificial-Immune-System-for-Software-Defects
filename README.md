@@ -1,6 +1,6 @@
 # 🧬 Sistema Imunológico Artificial para Detecção de Defeitos de Software
 
-![Banner do Projeto](https://via.placeholder.com/1200x400/0A1628/4ECDC4?text=Sistema+Imunologico+Artificial+para+Deteccao+de+Defeitos )
+![Banner do Projeto](https://github.com/ViniciusKanh/Artificial-Immune-System-for-Software-Defects/blob/main/src/assets/project_banner.webp)
 
 ## ✨ Visão Geral do Projeto
 
