@@ -91,7 +91,7 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE) - veja o arquivo `LI
  <sub><b>Vinicius de Souza Santos</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
 
 
-Feito com ❤️ por Vinicius Santos 👋🏽 Entre em contato!
+Feito com ❤️ por Vinicius Santos!
 
 [![Twitter Badge](https://img.shields.io/badge/-@viniciuskhan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/viniciuskhan)](https://x.com/viniciuskhan) [![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-ssantos/)](https://www.linkedin.com/in/vinicius-souza-santoss/) 
 [![Gmail Badge](https://img.shields.io/badge/-viniciussouza742@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciussouza742@gmail.com)](mailto:viniciussouza742@gmail.com)
